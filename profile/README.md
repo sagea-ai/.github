@@ -45,32 +45,3 @@ PrivoAI delivers **private, on-device language models** that combine enterprise-
 
 </div>
 
-## Key Features
-
-1. **Privacy by Architecture**  
-   - Data never leaves the device
-   - On-device knowledge graph verification
-   - Self-contained model execution
-
-2. **Enterprise-Ready Efficiency**  
-   - 4-bit GPTQ quantization
-   - Hardware-specific kernels (CoreML/TensorRT)
-   - Dynamic computation allocation
-
-3. **Reasoning Capabilities**  
-   - Chain-of-Thought (CoT) layers
-   - Hybrid symbolic-neural validation
-   - Process-supervised training
-
-## Model Downloads
-
-<div align="center">
-
-| Model         | Hugging Face                           | Base Architecture |
-|---------------|----------------------------------------|-------------------|
-| Privo Echo-3B | [🤗 Link](https://huggingface.co/PrivoAI/Privo-Echo-3B) | RWKV-v6           |
-| Privo Lens-7B | Coming Soon                            | Sparse Transformer|
-| Privo Core-14B| Coming Soon                            | MoE               |
-
-</div>
-
