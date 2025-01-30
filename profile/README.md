@@ -37,10 +37,6 @@ PrivoAI delivers **private, on-device language models** that combine enterprise-
 - ⚡ **On-Device Optimization**: 50MB–8GB memory footprints
 - 🧠 **Advanced Reasoning**: Hybrid neuro-symbolic architecture
 
-<p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/PrivoAI/.github/main/benchmark-comparison.jpg">
-</p>
-
 ## Model Family
 
 <div align="center">
@@ -82,16 +78,3 @@ PrivoAI delivers **private, on-device language models** that combine enterprise-
 
 </div>
 
-## Getting Started
-
-### Basic Usage (Privo Echo-3B)
-```python
-from privo import PrivoEcho
-
-model = PrivoEcho.from_pretrained("PrivoAI/Privo-Echo-3B")
-response = model.generate(
-    "Explain quantum computing in simple terms",
-    max_length=512,
-    temperature=0.6
-)
-print(response)
