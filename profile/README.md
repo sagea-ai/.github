@@ -32,10 +32,6 @@
 
 PrivoAI delivers **private, on-device language models** that combine enterprise-grade reasoning with uncompromising data security. Our models process sensitive information directly on your hardware - **zero data exit, zero cloud dependency**.
 
-**Key Differentiators**:
-- 🔒 **Certified Privacy**: GDPR/HIPAA-ready architecture
-- ⚡ **On-Device Optimization**: 50MB–8GB memory footprints
-- 🧠 **Advanced Reasoning**: Hybrid neuro-symbolic architecture
 
 ## Model Family
 
