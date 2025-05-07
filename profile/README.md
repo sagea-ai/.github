@@ -1,47 +1,48 @@
-# PrivoAI
-<!-- markdownlint-disable first-line-h1 -->
-<!-- markdownlint-disable html -->
-<!-- markdownlint-disable no-duplicate-header -->
 <div align="center">
-  <img src="https://github.com/PrivoAI/PrivoAI/raw/main/privo.png" width="40%" alt="PrivoAI Logo" />
+  <img src="https://github.com/sagea-ai/.github/raw/main/images/logo.png" alt="SAGEA Banner" width="100%">
 </div>
-
-<hr>
-<div align="center" style="line-height: 1;">
-  <a href="https://privo.ai" target="_blank" style="margin: 2px;">
-    <img alt="Homepage" src="https://img.shields.io/badge/🌐_Website-PrivoAI-2E5BFF?color=2E5BFF&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://huggingface.co/PrivoAI" target="_blank" style="margin: 2px;">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-PrivoAI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://discord.gg/your-invite-link" target="_blank" style="margin: 2px;">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-PrivoAI-7289da?logo=discord&logoColor=white&color=7289da" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
-
-<div align="center" style="line-height: 1;">
-  <a href="https://github.com/PrivoAI/PrivoAI/blob/main/LICENSE" style="margin: 2px;">
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX" style="margin: 2px;">
-    <img alt="Paper" src="https://img.shields.io/badge/📜_Paper-Privacy First AI-4A4A4A" style="display: inline-block; vertical-align: middle;"/>
-  </a>
-</div>
-
-## Introduction
-
-PrivoAI delivers **private, on-device language models** that combine enterprise-grade reasoning with uncompromising data security. Our models process sensitive information directly on your hardware - **zero data exit, zero cloud dependency**.
-
-
-## Model Family
 
 <div align="center">
-
-| Model          | Parameters | Use Case               | Memory  | Devices Supported      |
-|----------------|------------|------------------------|---------|------------------------|
-| **Privo Core** | 14B        | Enterprise Reasoning   | 8GB     | Servers, High-end PCs  |
-| **Privo Lens** | 7B         | Balanced Performance   | 3.5GB   | Laptops, Edge Servers  |
-| **Privo Echo** | 3B         | Embedded Efficiency    | 800MB   | Mobile, IoT Devices    |
-
+  <img src="https://github.com/sagea-ai/.github/raw/main/images/banner.png" alt="SAGEA Logo" width="400px">
+  <p>Scalable, Adaptable, Globally Efficient AI</p>
+  
+  [![Website](https://img.shields.io/badge/Website-sagea.space-blue?style=for-the-badge&logo=world&logoColor=white)](https://sagea.space)
+  [![HuggingFace](https://img.shields.io/badge/HuggingFace-sagea--ai-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/sagea-ai)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagea--ai-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sagea-ai/)
+  [![Email](https://img.shields.io/badge/Email-support%40sagea.space-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:support@sagea.space)
 </div>
 
+## About SAGEA
+
+SAGEA is an independent AI research company building scalable, multilingual foundation models designed to be efficient, adaptable, and locally deployable. Our technology empowers organizations to leverage advanced AI without requiring expensive GPU infrastructure.
+
+### 🔍 Our Core Systems
+
+- **VORA**: Our voice model optimized for real-time applications
+- **Advanced reasoning and language models** tailored for real-world use cases
+- **Efficient deployment solutions** that minimize computational requirements
+
+##  Our Focus
+
+- **Multilingual, low-cost AI systems** accessible to diverse global communities
+- **Developer-first tooling and deployment** enabling seamless integration
+- **Transparent, responsible AI research** with clear documentation and guidelines
+- **Open-access model release** after deprecation to support community innovation
+
+##  This Repository
+
+This GitHub organization hosts our:
+- Internal research papers
+- Model documentation
+- Infrastructure tools
+- Deprecated versions of our LLMs (under open licenses)
+
+## 🌱 Current Status
+
+SAGEA is currently in active R&D and MVP deployment phase. We welcome contributions and community feedback as we continue to develop our technology.
+
+
+<div align="center">
+  <a href="https://sagea.space"><img src="https://img.shields.io/badge/Learn%20More-Visit%20Our%20Website-blue?style=for-the-badge" alt="Website"></a>
+  <a href="mailto:support@sagea.space"><img src="https://img.shields.io/badge/Contact%20Us-support%40sagea.space-red?style=for-the-badge" alt="Email"></a>
+</div>
