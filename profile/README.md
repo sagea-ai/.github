@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sagea-ai/.github/raw/main/images/logo.png" alt="SAGEA Banner" width="100%">
+  <img src="https://github.com/sagea-ai/.github/raw/main/images/logo.png" alt="SAGEA Banner" width="20%">
 </div>
 
 <div align="center">
