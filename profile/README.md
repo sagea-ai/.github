@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://github.com/sagea-ai/.github/raw/main/images/logo.png" alt="SAGEA Banner" width="20%">
-</div>
-
-<div align="center">
   <img src="https://github.com/sagea-ai/.github/raw/main/images/banner.png" alt="SAGEA Logo" width="400px">
-  <p>Scalable, Adaptable, Globally Efficient AI</p>
+  <p>Engineering intelligence that feels alive.</p>
   
   [![Website](https://img.shields.io/badge/Website-sagea.space-blue?style=for-the-badge&logo=world&logoColor=white)](https://sagea.space)
   [![HuggingFace](https://img.shields.io/badge/HuggingFace-sagea--ai-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/sagea-ai)
@@ -16,7 +12,7 @@
 
 SAGEA is an independent AI research company building scalable, multilingual foundation models designed to be efficient, adaptable, and locally deployable. Our technology empowers organizations to leverage advanced AI without requiring expensive GPU infrastructure.
 
-### 🔍 Our Core Systems
+###  Our Core Systems
 
 - **VORA**: Our voice model optimized for real-time applications
 - **Advanced reasoning and language models** tailored for real-world use cases
@@ -37,7 +33,7 @@ This GitHub organization hosts our:
 - Infrastructure tools
 - Deprecated versions of our LLMs (under open licenses)
 
-## 🌱 Current Status
+##  Current Status
 
 SAGEA is currently in active R&D and MVP deployment phase. We welcome contributions and community feedback as we continue to develop our technology.
 
