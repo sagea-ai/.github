@@ -1,42 +1,24 @@
 <div align="center">
   <img src="https://github.com/sagea-ai/.github/raw/main/images/banner.png" alt="SAGEA Logo" width="400px">
   <p>Engineering intelligence that feels alive.</p>
-  
-  [![Website](https://img.shields.io/badge/Website-sagea.space-blue?style=for-the-badge&logo=world&logoColor=white)](https://sagea.space)
+
+  [![Website](https://img.shields.io/badge/Website-sagea.space-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagea.space)
   [![HuggingFace](https://img.shields.io/badge/HuggingFace-sagea--ai-orange?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/sagea-ai)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagea--ai-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sagea-ai/)
-  [![Email](https://img.shields.io/badge/Email-support%40sagea.space-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:support@sagea.space)
+  [![Email](https://img.shields.io/badge/Email-support%40sagea.space-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@sagea.space)
 </div>
 
-## About SAGEA
+---
 
-SAGEA is an independent AI research company building scalable, multilingual foundation models designed to be efficient, adaptable, and locally deployable. Our technology empowers organizations to leverage advanced AI without requiring expensive GPU infrastructure.
+SAGEA is an AI research and deployment company. We build foundation models, reasoning systems, and enterprise AI infrastructure — with a focus on making frontier-grade AI accessible across South Asia.
 
-###  Our Core Systems
+Our model families include **SAGE**, a series of reasoning and language models ranging from efficient on-device variants to large-scale agentic systems, and **VORA**, built for real-time voice and multimodal applications. Several models are open source and available on [HuggingFace](https://huggingface.co/sagea-ai).
 
-- **VORA**: Our voice model optimized for real-time applications
-- **Advanced reasoning and language models** tailored for real-world use cases
-- **Efficient deployment solutions** that minimize computational requirements
+We also work directly with enterprises to deploy AI into production — from identity verification to developer tooling — and offer API access to our models for builders.
 
-##  Our Focus
+This organization hosts our open-source model releases, research, and infrastructure tooling.
 
-- **Multilingual, low-cost AI systems** accessible to diverse global communities
-- **Developer-first tooling and deployment** enabling seamless integration
-- **Transparent, responsible AI research** with clear documentation and guidelines
-- **Open-access model release** after deprecation to support community innovation
-
-##  This Repository
-
-This GitHub organization hosts our:
-- Internal research papers
-- Model documentation
-- Infrastructure tools
-- Deprecated versions of our LLMs (under open licenses)
-
-##  Current Status
-
-SAGEA is currently in active R&D and MVP deployment phase. We welcome contributions and community feedback as we continue to develop our technology.
-
+---
 
 <div align="center">
   <a href="https://sagea.space"><img src="https://img.shields.io/badge/Learn%20More-Visit%20Our%20Website-blue?style=for-the-badge" alt="Website"></a>
