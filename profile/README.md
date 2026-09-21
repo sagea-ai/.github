@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sagea-ai/.github/raw/main/images/banner.png" alt="SAGEA Logo" width="400px">
-  <p>Frontier Intelligence, Built for Reality.</p>
+  <img src="https://github.com/sagea-ai/.github/raw/main/images/banner.png" alt="SAGEA Logo" width="600px">
 </div>
 
 ---
